@@ -17,7 +17,9 @@ th, td /* table elements 表格元素 */ {
   margin: 0;
   padding: 0;
 }
-
+.icon-tag {
+  font-size: 16px;
+}
 /** 设置默认字体 **/
 body,
 button, input, select, textarea /* for ie */ {
